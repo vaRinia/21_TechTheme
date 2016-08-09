@@ -1,0 +1,27 @@
+.bg-inicio {
+	background-image: url("../img/background/hero.jpg");
+	height: 680px;
+	background-position: top center;
+	/*-webkit-filter: brightness(80%);*/
+}
+.titulo {
+	margin-top: 15%;
+	font-size: 2.8em;
+}
+h3 {
+	font-weight: 
+}
+.bg-foto2 {
+	background-image: url("../img/background/city.jpg");
+	height: 420px;
+	background-position: top center;
+	/*-webkit-filter: brightness(80%);*/
+}
+
+header a:hover {
+	color: #08B1A9;
+}
+
+.portfolio button:hover {
+	background-color: #08B1A9;
+}
