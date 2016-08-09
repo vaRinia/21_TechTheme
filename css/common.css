@@ -72,7 +72,7 @@ a {
 	font-size: 0.9em;
 }
 .t-p7 {
-	font-weight: 0.7em;
+	font-size: 0.7em;
 }
 .t-2 {
 	font-size: 2em;
@@ -98,4 +98,15 @@ a {
 }
 .h-200 {
 	height: 200px;
+}
+.in-line {
+	display: inline-block;
+	width: 50px;
+	height: 50px;
+}
+.op {
+	background-color: rgba(36,35,35,0.4);
+}
+.pd-10 {
+	padding: 15%;
 }
