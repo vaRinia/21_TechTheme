@@ -33,3 +33,14 @@ header a:hover {
 .portfolio button:hover {
 	background-color: #08B1A9;
 }
+.azul{
+	background-color: #34495e;
+}
+.claro{
+	background-color: #bdc3c7;
+}
+.redonda{
+	border-radius: 50%;
+	width: 100px;
+	height: 100px;
+}
