@@ -1,7 +1,7 @@
 .bg-inicio {
 	background-image: url("../img/background/hero.jpg");
 	height: 680px;
-	background-position: top center;
+	background-position: center top;
 	/*-webkit-filter: brightness(80%);*/
 }
 .titulo {
@@ -14,8 +14,16 @@ h3 {
 .bg-foto2 {
 	background-image: url("../img/background/city.jpg");
 	height: 420px;
-	background-position: top center;
+	background-position: center top;
 	/*-webkit-filter: brightness(80%);*/
+}
+.bg-contacto {
+	background-image: url("../img/background/contactus.jpg");
+	height: 680px;
+	width: 100%
+	background-position: center top;
+
+	
 }
 
 header a:hover {

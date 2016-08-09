@@ -81,7 +81,7 @@ strong {
 .bg-img-block {
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-position: center;
+	/*background-position: center;*/
 }
 
 .pull-left {

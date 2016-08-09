@@ -25,6 +25,9 @@
 .mg-b-2{
 	margin-bottom: 2%;
 }
+.mg-b-5 {
+	margin-bottom: 5%;
+}
 .mg-5 {
 	margin: 5%;
 }
@@ -68,6 +71,9 @@ a {
 .t-p9{
 	font-size: 0.9em;
 }
+.t-p7 {
+	font-weight: 0.7em;
+}
 .t-2 {
 	font-size: 2em;
 }
@@ -85,4 +91,11 @@ a {
 .icono2
  {
 	color: #08B1A9;
+}
+/*ññññ*/
+.no-bor {
+	border: none;
+}
+.h-200 {
+	height: 200px;
 }
